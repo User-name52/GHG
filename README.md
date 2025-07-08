@@ -1,2 +1,2 @@
-# Ghc
+# GHG
 Green house Prediction 
